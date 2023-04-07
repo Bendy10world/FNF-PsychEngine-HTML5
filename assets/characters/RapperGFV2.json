@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-221
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-226
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-277
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-207
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-220
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-216
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss pose"
+		},
+		{
+			"offsets": [
+				102,
+				-257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss pose"
+		},
+		{
+			"offsets": [
+				83,
+				-194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss pose"
+		},
+		{
+			"offsets": [
+				96,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss pose"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-61,
+				-216
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Fear",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle ALT"
+		},
+		{
+			"offsets": [
+				80,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left ALT"
+		},
+		{
+			"offsets": [
+				-56,
+				-273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down ALT"
+		},
+		{
+			"offsets": [
+				-50,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up ALT"
+		},
+		{
+			"offsets": [
+				-47,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right ALT"
+		},
+		{
+			"offsets": [
+				105,
+				-201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "demonMode",
+			"loop": false,
+			"name": "GF Turn Into Demon"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_in_Bf_clothesV2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rapgfv2",
+	"flip_x": true,
+	"healthbar_colors": [
+		149,
+		7,
+		78
+	],
+	"camera_position": [
+		-70,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
